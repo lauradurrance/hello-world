@@ -1,2 +1,2 @@
 # hello-world
-for practice
+This is my practice repository.
